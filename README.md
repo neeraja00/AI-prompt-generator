@@ -43,16 +43,16 @@ This project generates optimized, ready-to-use prompts based on user input, help
 ![Home](./public/screenshots/home.png)
 
 ### ✍️ Prompt Generator
-![Generator](./public/screenshots/generator.png)
+![Generator](./public/screenshots/Generator.png)
 
 ### 📞 Contact Page
-![Contact](./public/screenshots/contact.png)
+![Contact](./public/screenshots/Contact.png)
 
 ### ℹ️ About Page
-![About](./public/screenshots/about.png)
+![About](./public/screenshots/About.png)
 
 ### 🔻 Footer Section
-![Footer](./public/screenshots/footer.png)
+![Footer](./public/screenshots/Footer.png)
 ---
 
 ## 📂 Project Structure
