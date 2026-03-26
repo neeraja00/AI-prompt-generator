@@ -1,21 +1,121 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 AI Prompt Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An **AI Prompt Generator** is a web-based application that helps users create structured and effective prompts for AI tools like ChatGPT and DALL·E. It simplifies prompt writing, improves output quality, and saves time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Problem Statement
 
-## React Compiler
+Many users struggle to write clear and effective prompts for AI tools, resulting in poor or irrelevant outputs.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💡 Solution
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# AI-prompt-generator
-AI Prompt Generator is a React-based web app that helps users create optimized prompts for AI tools like ChatGPT. It simplifies prompt writing, improves output quality, and saves time with a fast, user-friendly interface built using Vite.
->>>>>>> a7923e611c3b2e7b4ff7026dd9f17fc58b5cbe34
+This project generates optimized, ready-to-use prompts based on user input, helping users get better and more accurate results from AI platforms.
+
+---
+
+## ✨ Features
+
+* ⚡ Dynamic prompt generation
+* 🎯 User-friendly interface
+* 🧠 Supports multiple use cases (content, coding, design, etc.)
+* 📈 Improves AI response quality
+* 🚀 Fast and responsive (built with Vite)
+* 📋 Easy copy & reuse of generated prompts
+* 🔧 Scalable for future enhancements
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React
+* **Build Tool:** Vite
+* **Languages:** JavaScript, HTML, CSS
+* **Package Manager:** npm
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./public/screenshots/home.png)
+
+### ✍️ Prompt Generator
+![Generator](./public/screenshots/generator.png)
+
+### 📞 Contact Page
+![Contact](./public/screenshots/contact.png)
+
+### ℹ️ About Page
+![About](./public/screenshots/about.png)
+
+### 🔻 Footer Section
+![Footer](./public/screenshots/footer.png)
+---
+
+## 📂 Project Structure
+
+```
+ai-prompt-generator/
+│
+├── public/
+├── src/
+├── README.md
+├── package.json
+├── .gitignore
+└── LICENSE
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/neeraja00/ai-prompt-generator.git
+
+# Navigate to project folder
+cd ai-prompt-generator
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 (Add your deployed link here – Vercel / Netlify)
+
+---
+
+## 🚀 Future Improvements
+
+* Integrate real AI APIs for advanced prompt generation
+* Add more prompt categories and templates
+* Improve UI with modern styling and animations
+* Add user authentication and saved prompts feature
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Neeraja Billa**
+CSE Student | Full Stack Developer
+
+---
+
+## ⭐ Contribute & Support
+
+If you like this project, give it a ⭐ on GitHub and feel free to contribute!
