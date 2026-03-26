@@ -90,7 +90,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here – Vercel / Netlify)
+👉 https://ai-prompt-generator-tau.vercel.app/
 
 ---
 
