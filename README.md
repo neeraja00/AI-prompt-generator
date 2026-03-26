@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# AI-prompt-generator
+AI Prompt Generator is a React-based web app that helps users create optimized prompts for AI tools like ChatGPT. It simplifies prompt writing, improves output quality, and saves time with a fast, user-friendly interface built using Vite.
+>>>>>>> a7923e611c3b2e7b4ff7026dd9f17fc58b5cbe34
