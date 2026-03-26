@@ -33,16 +33,16 @@ ai-prompt-generator/
 └── LICENSE
 
 ⚙️ Installation & Setup
-# Clone the repository
+Clone the repository
 git clone https://github.com/neeraja00/ai-prompt-generator.git
 
-# Navigate to project folder
+Navigate to project folder
 cd ai-prompt-generator
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Run the development server
+Run the development server
 npm run dev
 
 🌐 Live Demo
